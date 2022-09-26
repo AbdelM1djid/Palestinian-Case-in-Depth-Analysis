@@ -11,6 +11,7 @@ To Do that , i used the following skills :
 - Applying Data analysis Tasks With Multiple Tools which will be mentioned later on this Document (Data Preparing,Processing,Cleaning,Analyzing)  
 - Natural Language Processing
 - Sentiment Analysis to know the emotions Behind the Tweets (Using Python)(Sentiment for Both Arabic and English Data)
+- Overall Extract ,Transform & Load
 - Data aggregation and Structering  
 - Data Visualizing
 - Connecting The Dots and Communicating Findings Through Presentation
