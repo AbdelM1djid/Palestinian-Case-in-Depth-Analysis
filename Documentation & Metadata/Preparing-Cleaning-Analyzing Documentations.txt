@@ -1,0 +1,32 @@
+#1 - Preparing Data  : 
+       - Download 'Palestine Body Count' from Kaggle 
+       - Downloaded 'Palestinian Homes Demolitions' from Kaggle 
+       - Download The Daily Updated Data 'Events data by Month and year'
+       - Scraped Twitter Data using 'Snscrape' Library 
+       - Stored the scraped data into an excel file 
+#2  - Cleaning Data  : 
+       -  remove duplicated 'content'
+       - Extract the device from the 'Source Column' and replace it 
+       - extract Month,day,hour from the datetime column 
+       - reformat the datetime column into a date only column 
+       - clean 'Content' Columns strings , remove links 
+       - create a new 'LANG' Column to seperate arabic and english data based on the language 
+       - Concatenate the arabic and English dataset 
+       - Sort new merged dataset based on 'Month','Day','hour'
+       - clean hashtags column strings 
+       - create a hashtags dictionnary containing the trending hashtags 
+#3  - Analyzing Data  : 
+                - Basic analysis : most used device , user with the most number of tweets or likes  (using Countplot)
+                Detecting events :   
+                -  sort datasets  
+                - plot tweets count and find the days/month with the highest number of tweets  (using Line charts)
+                - repeating hashtags in that time    (using bar charts)
+                Media Reaction to Palesinian Case overall & specific events:   
+                - Sentiment analysis for both arabic and english   
+                - add it to a column   
+                - aggregate total reaction for all data and for the specific events  (using a pie chart)
+
+               3) Arabic and english comparison :   
+                - compare number of tweets   (using numpy) 
+                - number of (likes,retweets,comments) for the top contributers (using pivot tables)  
+                - sentiment comparison  (using pie charts)

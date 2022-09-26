@@ -1,0 +1,19 @@
+Data License Agreement : Data files © Original Authors
+. Owner : Zeeshan-ul-hassan Usmani 
+. Found in : Kaggle.com
+. Original Data Location : "Csv Files" Folder
+. Analysis Data Location : "Csv Files" Folder
+. Total Size : 37 KB (House Demolition) - 7 KB (Palestine Body Count)
+. Files Format : CSV
+. Number of Files : 1
+Data integrity  : 
+- Collected By a Kaggle GrandMaster , which achieved 10 rank on kaggle 
+- By a Data Scientist in USA
+- ul-hassan collect similar datasets such as : Pakistan Drone attacks , Suicide Bombs attacks 
+and Palestine Body Count which was used as well in this analysis 
+- contains all needed informations for the analysis
+-Current 2021 and 2022 data 
+Data use  : 
+Contains full information about the Houses Destroyed and Palestinian Number of Deaths 
+each year which will be used to highlight the Palestine Conflict and its Victims and 
+demonstrate the cruel Actions of The colonizer throughout the years 

@@ -1,0 +1,16 @@
+Models used : 
+Roberta for English Sentiment Analysis 
+akhooli for Arabic Sentiment Analysis 
+=================================================
+Sentiment analysis Steps  : 
+     1) imported necessary libraries  
+     2) prepared data for Sentiment  : (removed duplicated,removed links,reseted index)
+     3) prepared models  : call methods to a variables , define labels 
+     4) preprocess data : (removed punctuation,lowercase words,split words,join words,stem words)
+     5) iterate through data and get the Sentiment 
+     6) get the probabilty score and the corresponding sentiment
+     7) store the sentiment into a new column 
+            
+         Notes ; used a sample in the arabic data because it was too large 
+
+     then Save the data and imported it into the Notebook analysis file 

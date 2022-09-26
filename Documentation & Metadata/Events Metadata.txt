@@ -1,0 +1,25 @@
+A weekly dataset providing the total number of reported political violence, civilian-targeting, and demonstration events in Palestine. 
+Source : Armed Conflict Location & Event Data Project (ACLED)
+Updated : Weekly 
+Format : XLSX 
+Size : 29 KB
+Number of Files : 3
+Found in : Data.human.org
+. Original Data Location : "xlsx files" Folder
+. Analysis Data Location : "xlsx files" Folder
+
+Data Integrity : 
+Data Collected By ACLED which is a : 
+- The Armed Conflict Location & Event Data Project (ACLED) is a disaggregated data collection, analysis, and crisis mapping project. ACLED collects the dates, actors, locations, fatalities, 
+and types of all reported political violence and protest events in more than 200 countries and territories in real time. 
+The ACLED team conducts analysis to describe, explore, and test conflict scenarios, and makes both data and analysis open for free use by the public.
+ACLED is a registered non-profit organization with 501(c)(3) status in the United States.
+- Data is organized with no Missing values
+- Weekly Updated 
+
+Data Use : 
+Contains Informations about  : 
+Palestine Demonstrations Events 
+Palestine Violence Events 
+Palestine civilian Targeting Events
+Which is used to analyze events in 2022 and confirm The tweet Data Findings 

@@ -1,0 +1,15 @@
+Tools used : 
+Python (scraping data,data wrangling,Sentiment Analysis,
+Excel (Power Query)
+Tableau (Dashboard and Story )  
+Mysql (Columns Drop, Data Type , joining data ) 
+==================================================================
+Analysis Steps : 
+ 1- scraped and collected twitter data 
+ 2- searched and collected for external data about the palestinian case
+ 3- cleaned the twitter data
+ 4- applied a Sentiment analysis to the tweets content
+ 5- aggregated and analyzed the final form of the data into tables and data visualizations
+ 6-  cleaned the external data in Power Query Excel 
+ 7- joined the events data in Mysql 
+ 8- Visualized The external data and made a Dashboard out of them 
