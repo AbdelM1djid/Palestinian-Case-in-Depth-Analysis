@@ -26,7 +26,8 @@ Main Files of The analysis :
 - all Python Notebooks 
 - Sql File
 - Excel House Demolition/Palestine Body Count Worksheet
-- Tableau Workbook 
+- Tableau Workbook  
+ 
 Project Gallery : 
 https://drive.google.com/drive/folders/1Rt8AD-Moiic6loSaa6bJcWXRdLl1zVsH?usp=sharing  
 
