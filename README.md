@@ -28,7 +28,8 @@ Main Files of The analysis :
 - Excel House Demolition/Palestine Body Count Worksheet
 - Tableau Workbook 
 Project Gallery : 
-https://drive.google.com/drive/folders/1Rt8AD-Moiic6loSaa6bJcWXRdLl1zVsH?usp=sharing
+https://drive.google.com/drive/folders/1Rt8AD-Moiic6loSaa6bJcWXRdLl1zVsH?usp=sharing  
+
 Tableau Dashboard link : 
 https://public.tableau.com/views/PalestinianCase/PalestinianConflictDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
